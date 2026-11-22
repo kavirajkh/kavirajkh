@@ -5,7 +5,6 @@ Spring Boot microservices, event-driven platforms and AI-assisted engineering.</
 <p align="center">
   <a href="https://kavirajkh.github.io"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-kavirajkh.github.io-0B7285?logo=githubpages&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/kavirajkh"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-kavirajkh-0077B5?logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:kaviraj.kh@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-kaviraj.kh@gmail.com-D14836?logo=gmail&logoColor=white"/></a>
 </p>
 
 ## 💫 About Me
